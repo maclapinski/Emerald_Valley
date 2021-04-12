@@ -9564,7 +9564,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 #showcase h1 {
@@ -9576,6 +9576,12 @@ body {
   font-size: 1.5rem;
   font-weight: 500;
   border-radius: 2rem;
+}
+
+#contact .bg {
+  height: 400px;
+  background-image: url(/images/leio-mclaren-leiomclaren-com-TecDP5o8Iq0-unsplash.jpg);
+  background-position: bottom;
 }
 
 @media (max-width: 768px) {
